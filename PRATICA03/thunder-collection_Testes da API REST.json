@@ -1,0 +1,28 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-06T00:57:18.703Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "8ee42201-e71b-4e40-89f7-4a2fccff82ac",
+            "colId": "9de80ec9-0b25-47bf-8f10-2cb500b7abad",
+            "containerId": "",
+            "name": "https://dummyjson.com/products",
+            "url": "https://dummyjson.com/products/101",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-03-06T00:53:58.319Z",
+            "modified": "2024-03-06T00:53:58.319Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"\", \"description\": \"\", \"price\": \"\"\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
